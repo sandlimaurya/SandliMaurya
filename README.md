@@ -1,3 +1,4 @@
+```markdown
 <!-- HEADER SECTION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/sandlimaurya/Portfolio/main/public/logo_white.svg" width="60" alt="Sandli Maurya Logo" />
@@ -84,3 +85,4 @@
 <p align="center">
   🌿 <em>Curated with care & passion by Sandli Maurya.</em> 🌿
 </p>
+```
