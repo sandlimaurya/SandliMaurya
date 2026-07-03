@@ -1,10 +1,10 @@
 <!-- ═══════════════════════ BANNER ═══════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F5D5DE,100:EA6993&height=180&section=header&text=Sandli%20Maurya&fontSize=46&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=Visual%20%26%20UX%2FUI%20Designer&descAlignY=62&descSize=18" width="100%" alt="Sandli Maurya banner" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&duration=4000&pause=1300&color=EA6993&center=true&vCenter=true&width=560&lines=Sandli+Maurya" alt="Sandli Maurya" />
+</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3800&pause=1300&color=EA6993&center=true&vCenter=true&width=560&lines=Editorial+layouts+%2B+tactile+motion;Where+fine+art+meets+pixel-precision;Currently+crafting+%E2%80%94+Curated+Print+Shop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3800&pause=1300&color=4D3B31&center=true&vCenter=true&width=560&lines=Visual+%26+UX%2FUI+Designer;Editorial+layouts+%2B+tactile+motion;Where+fine+art+meets+pixel-precision" alt="Typing SVG" />
 </h3>
 
 <p align="center">
