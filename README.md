@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="70%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" width="70%" />
 </p>
 
 <!-- ABOUT + STACK -->
@@ -67,7 +67,7 @@ I'm a **UX/UI & Visual Designer** who translates ideas into elegant, tangible di
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="70%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" width="70%" />
 </p>
 
 <!-- FEATURED WORK -->
@@ -95,7 +95,7 @@ A multi-category storefront for digital wallpapers, paintings, and KDP books, wi
 </table>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rose.png" width="70%" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/line.png" width="70%" />
 </p>
 
 <!-- STATS -->
